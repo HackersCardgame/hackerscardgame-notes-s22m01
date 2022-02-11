@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.53543895"
-     inkscape:cx="-1724.7531"
-     inkscape:cy="-1326.9487"
+     inkscape:zoom="1.5144501"
+     inkscape:cx="-2168.1138"
+     inkscape:cy="-1769.2891"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -7345,5 +7345,16 @@
        id="path25459-8-0"
        style="stroke-width:1.23543;stroke-linejoin:round"
        d="M 96.144999,52.353018 V 161.13397 H 100.1452 V 52.353018 Z m 15.999991,0 V 161.13397 h 4.0003 V 52.353018 Z m 16.0001,0 V 161.13397 h 4.0002 V 52.353018 Z m 16,0 V 161.13397 h 4.0003 V 52.353018 Z m 16.0001,0 V 161.13397 h 4.0002 V 52.353018 Z m 16,0 V 161.13397 h 3.9998 V 52.353018 Z m 16.0001,0 V 161.13397 h 3.9997 V 52.353018 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-633.6582"
+       y="-518.52704"
+       id="text34796"><tspan
+         sodipodi:role="line"
+         id="tspan34794"
+         style="stroke-width:0.264583"
+         x="-633.6582"
+         y="-518.52704">6: 0, 15, 30, 45, 60, 75</tspan></text>
   </g>
 </svg>
