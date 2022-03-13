@@ -74,7 +74,7 @@
          style="stroke-width:0.264583"
          x="40.368931"
          y="156.42961"
-         id="tspan96440">hat sich immer für die kinder eingesetzt</tspan></text>
+         id="tspan96440">hat sich immer für die kinder/schüler eingesetzt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -112,5 +112,16 @@
          x="28.834949"
          y="266.04175"
          id="tspan100145">die theorie hätte zerstören können</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.065533"
+       y="288.70996"
+       id="text106197"><tspan
+         sodipodi:role="line"
+         id="tspan106195"
+         style="stroke-width:0.264583"
+         x="54.065533"
+         y="288.70996">induktivitäts problem / deduktiv?</tspan></text>
   </g>
 </svg>
