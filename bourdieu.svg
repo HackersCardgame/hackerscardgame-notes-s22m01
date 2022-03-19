@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.75722502"
-     inkscape:cx="-427.21779"
-     inkscape:cy="-2902.0436"
+     inkscape:zoom="0.26771947"
+     inkscape:cx="229.71807"
+     inkscape:cy="-3651.2099"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -34,7 +34,36 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path67668" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path67668-1" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
@@ -5495,21 +5524,31 @@ AAAAAElFTkSuQmCC
          style="stroke-width:0.264583"
          x="-267.99881"
          y="-771.74371"
-         id="tspan31565">- gesundheits Feld</tspan><tspan
+         id="tspan48566">- vereins feld</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-267.99881"
          y="-758.51459"
-         id="tspan31567">- esoterik Feld (soziales Kapital Aufmerksamkeit)</tspan><tspan
+         id="tspan42957">- bildungs Feld</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-267.99881"
          y="-745.28546"
-         id="tspan31569">- wirtschaftliches Feld (ökonomisches Kapital, Durchdringt andere)</tspan><tspan
+         id="tspan31565">- gesundheits Feld</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-267.99881"
          y="-732.05634"
+         id="tspan31567">- esoterik Feld (soziales Kapital Aufmerksamkeit)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-267.99881"
+         y="-718.82721"
+         id="tspan31569">- wirtschaftliches Feld (ökonomisches Kapital, Durchdringt andere)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-267.99881"
+         y="-705.59808"
          id="tspan31571">- familiäres Feld (Heirat ist symbolisches Kapital)</tspan></text>
     <text
        xml:space="preserve"
@@ -5542,5 +5581,444 @@ AAAAAElFTkSuQmCC
          x="-212.79178"
          y="-634.72589"
          id="tspan33533">feldspezifisches Kapital (informatik Skills)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-48.568237"
+       y="-864.4447"
+       id="text36691"><tspan
+         sodipodi:role="line"
+         id="tspan36689"
+         style="stroke-width:0.264583"
+         x="-48.568237"
+         y="-864.4447">Doxa / illusio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-159.68117"
+       y="-867.23999"
+       id="text46490"><tspan
+         sodipodi:role="line"
+         id="tspan46488"
+         style="stroke-width:0.264583"
+         x="-159.68117"
+         y="-867.23999">Feldgeschichte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-39.134117"
+       y="-840.68469"
+       id="text47607"><tspan
+         sodipodi:role="line"
+         id="tspan47605"
+         style="stroke-width:0.264583"
+         x="-39.134117"
+         y="-840.68469">Feldinteresse</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-39.134117"
+         y="-827.45557"
+         id="tspan47609">(eskapismus, grosskinder geniessen, ....)</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942"
+       cx="-65.339996"
+       cy="-977.30469"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-91.442154"
+       y="-970.86768"
+       id="text52882"><tspan
+         sodipodi:role="line"
+         id="tspan52880"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-91.442154"
+         y="-970.86768">DOXA</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942-4"
+       cx="-273.75516"
+       cy="-1028.8054"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-299.8573"
+       y="-1022.3684"
+       id="text52882-8"><tspan
+         sodipodi:role="line"
+         id="tspan52880-9"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-299.8573"
+         y="-1022.3684">DOXA</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M -36.338824,-993.72704 252.97412,-1065.7059"
+       id="path56411" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M -34.242353,-969.26822 154.44,-953.8941"
+       id="path56413" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.695687;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect68341"
+       width="225.70271"
+       height="103.25728"
+       x="-229.63188"
+       y="-1191.3359" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -150.69757,-1105.7169 52.622483,103.5543"
+       id="path56415"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -87.733207,-1095.8049 13.277645,86.13"
+       id="path56417" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -110.19386,-973.46142 -101.29928,48.92014"
+       id="path56419"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-282.64969"
+       y="-1013.9811"
+       id="text57485"><tspan
+         sodipodi:role="line"
+         id="tspan57483"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-282.64969"
+         y="-1013.9811">Lau</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942-4-3"
+       cx="-248.55386"
+       cy="-903.78729"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-274.65601"
+       y="-897.35028"
+       id="text52882-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan52880-9-4"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-274.65601"
+         y="-897.35028">DOXA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-261.40155"
+       y="-886.49225"
+       id="text57485-5"><tspan
+         sodipodi:role="line"
+         id="tspan57483-7"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-261.40155"
+         y="-886.49225">Rohr</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942-4-3-5"
+       cx="-438.79886"
+       cy="-898.35175"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-464.901"
+       y="-891.91473"
+       id="text52882-8-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan52880-9-4-9"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-464.901"
+         y="-891.91473">DOXA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-451.64655"
+       y="-881.0567"
+       id="text57485-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan57483-7-1"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-451.64655"
+         y="-881.0567">Rohr</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942-4-3-5-8"
+       cx="-441.76373"
+       cy="-1014.9694"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-467.86588"
+       y="-1008.5324"
+       id="text52882-8-6-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan52880-9-4-9-0"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-467.86588"
+         y="-1008.5324">DOXA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-454.61142"
+       y="-997.67438"
+       id="text57485-5-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan57483-7-1-2"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-454.61142"
+         y="-997.67438">Telli</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-84.992569"
+       y="-961.60199"
+       id="text61269"><tspan
+         sodipodi:role="line"
+         id="tspan61267"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-84.992569"
+         y="-961.60199">Landolt</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942-3"
+       cx="-73.133141"
+       cy="-1132.5754"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-99.235306"
+       y="-1126.1384"
+       id="text52882-0"><tspan
+         sodipodi:role="line"
+         id="tspan52880-3"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-99.235306"
+         y="-1126.1384">DOXA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-92.785713"
+       y="-1116.8728"
+       id="text61269-6"><tspan
+         sodipodi:role="line"
+         id="tspan61267-5"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-92.785713"
+         y="-1116.8728">Landolt</tspan></text>
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path50942-9"
+       cx="-166.032"
+       cy="-1140.4817"
+       rx="40.881176"
+       ry="27.603529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6835px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442087"
+       x="-192.13416"
+       y="-1134.0447"
+       id="text52882-1"><tspan
+         sodipodi:role="line"
+         id="tspan52880-6"
+         style="fill:#ffffff;stroke-width:0.442087"
+         x="-192.13416"
+         y="-1134.0447">DOXA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-185.68457"
+       y="-1124.7791"
+       id="text61269-4"><tspan
+         sodipodi:role="line"
+         id="tspan61267-2"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-185.68457"
+         y="-1124.7791">Gigax</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -225.32914,-1013.9811 c 55.344,32.11924 5.92971,83.01597 5.92971,83.01597"
+       id="path67349" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.7951px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.444879"
+       x="-185.51724"
+       y="-1202.2058"
+       id="text68961"><tspan
+         sodipodi:role="line"
+         id="tspan68959"
+         style="stroke-width:0.444879"
+         x="-185.51724"
+         y="-1202.2058">Doxa Oberaargau</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-190.73915"
+       y="-1096.0088"
+       id="text69983"><tspan
+         sodipodi:role="line"
+         id="tspan69981"
+         style="stroke-width:0.264583"
+         x="-190.73915"
+         y="-1096.0088">schuelmeisterle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-54.355713"
+       y="-1094.0323"
+       id="text75363"><tspan
+         sodipodi:role="line"
+         id="tspan75361"
+         style="stroke-width:0.264583"
+         x="-54.355713"
+         y="-1094.0323">handwerkliches kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-26.683712"
+       y="-942.82452"
+       id="text77053"><tspan
+         sodipodi:role="line"
+         id="tspan77051"
+         style="stroke-width:0.264583"
+         x="-26.683712"
+         y="-942.82452">handwerkliches kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="262.884"
+       y="-1045.6062"
+       id="text79607"><tspan
+         sodipodi:role="line"
+         id="tspan79605"
+         style="stroke-width:0.264583"
+         x="262.884"
+         y="-1045.6062">informatik, elektronik und mathe kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="161.09058"
+       y="-934.91833"
+       id="text80706"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="161.09058"
+         y="-934.91833"
+         id="tspan80708">kapital/fertigkeit finanzen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-452.63483"
+       y="-848.93744"
+       id="text88261"><tspan
+         sodipodi:role="line"
+         id="tspan88259"
+         style="stroke-width:0.264583"
+         x="-452.63483"
+         y="-848.93744">wissenschaftliches kapital</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-452.63483"
+         y="-835.70831"
+         id="tspan88263">justiz kapital</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-452.63483"
+         y="-822.47919"
+         id="tspan89735">feuerwehr kapital</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M -488.21313,-997.18028 -664.128,-875.62115"
+       id="path97744" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)"
+       d="m -468.76721,-1041.7928 -175.91487,-121.5591"
+       id="path97744-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-621.63171"
+       y="-1178.0366"
+       id="text98772"><tspan
+         sodipodi:role="line"
+         id="tspan98770"
+         style="stroke-width:0.264583"
+         x="-621.63171"
+         y="-1178.0366">Handwerkliches Kapital</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-621.63171"
+         y="-1164.8075"
+         id="tspan99628">Aara</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-504.50592"
+       y="-968.26172"
+       id="text97968"><tspan
+         sodipodi:role="line"
+         id="tspan97966"
+         style="stroke-width:0.264583"
+         x="-504.50592"
+         y="-968.26172">zeichnerisches</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-504.50592"
+         y="-955.03259"
+         id="tspan97970">kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-662.63159"
+       y="-856.58545"
+       id="text97968-3"><tspan
+         sodipodi:role="line"
+         id="tspan97966-5"
+         style="stroke-width:0.264583"
+         x="-662.63159"
+         y="-856.58545">zeichnerisches</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-662.63159"
+         y="-843.35632"
+         id="tspan97970-6">kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.824286"
+       y="-1131.5872"
+       id="text103657"><tspan
+         sodipodi:role="line"
+         id="tspan103655"
+         style="stroke-width:0.264583"
+         x="14.824286"
+         y="-1131.5872">elektronisches kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="266.83713"
+       y="-1029.7937"
+       id="text104837"><tspan
+         sodipodi:role="line"
+         id="tspan104835"
+         style="stroke-width:0.264583"
+         x="266.83713"
+         y="-1029.7937">intellektuelles kapital</tspan></text>
   </g>
 </svg>
