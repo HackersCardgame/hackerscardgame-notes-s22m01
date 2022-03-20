@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.26771947"
-     inkscape:cx="-69.102183"
-     inkscape:cy="-3651.2099"
+     inkscape:zoom="0.37861251"
+     inkscape:cx="-508.43539"
+     inkscape:cy="-3498.2996"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -5891,17 +5891,6 @@ AAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-56.332283"
-       y="-940.84796"
-       id="text77053"><tspan
-         sodipodi:role="line"
-         id="tspan77051"
-         style="stroke-width:0.264583"
-         x="-56.332283"
-         y="-940.84796">handwerkliches kapital</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="262.884"
        y="-1045.6062"
        id="text79607"><tspan
@@ -6031,5 +6020,27 @@ AAAAAElFTkSuQmCC
          style="stroke-width:0.264583"
          x="268.81372"
          y="-1014.9694">integrität, sogar &quot;erbschaft&quot; gemeldet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-51.951649"
+       y="-935.95172"
+       id="text77053"><tspan
+         sodipodi:role="line"
+         id="tspan77051"
+         style="stroke-width:0.264583"
+         x="-51.951649"
+         y="-935.95172">handwerkliches kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-47.998505"
+       y="-1054.546"
+       id="text77053-4"><tspan
+         sodipodi:role="line"
+         id="tspan77051-2"
+         style="stroke-width:0.264583"
+         x="-47.998505"
+         y="-1054.546">handwerkliches kapital</tspan></text>
   </g>
 </svg>
