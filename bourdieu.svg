@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.26771947"
-     inkscape:cx="229.71807"
+     inkscape:cx="-69.102183"
      inkscape:cy="-3651.2099"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -5595,14 +5595,14 @@ AAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-159.68117"
-       y="-867.23999"
+       x="-165.61089"
+       y="-854.39227"
        id="text46490"><tspan
          sodipodi:role="line"
          id="tspan46488"
          style="stroke-width:0.264583"
-         x="-159.68117"
-         y="-867.23999">Feldgeschichte</tspan></text>
+         x="-165.61089"
+         y="-854.39227">Feldgeschichte</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -5880,25 +5880,25 @@ AAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-54.355713"
-       y="-1094.0323"
+       x="-208.52829"
+       y="-885.50409"
        id="text75363"><tspan
          sodipodi:role="line"
          id="tspan75361"
          style="stroke-width:0.264583"
-         x="-54.355713"
-         y="-1094.0323">handwerkliches kapital</tspan></text>
+         x="-208.52829"
+         y="-885.50409">handwerkliches kapital</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-26.683712"
-       y="-942.82452"
+       x="-56.332283"
+       y="-940.84796"
        id="text77053"><tspan
          sodipodi:role="line"
          id="tspan77051"
          style="stroke-width:0.264583"
-         x="-26.683712"
-         y="-942.82452">handwerkliches kapital</tspan></text>
+         x="-56.332283"
+         y="-940.84796">handwerkliches kapital</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6001,14 +6001,14 @@ AAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="14.824286"
-       y="-1131.5872"
+       x="-68.191711"
+       y="-1073.2783"
        id="text103657"><tspan
          sodipodi:role="line"
          id="tspan103655"
          style="stroke-width:0.264583"
-         x="14.824286"
-         y="-1131.5872">elektronisches kapital</tspan></text>
+         x="-68.191711"
+         y="-1073.2783">elektronisches kapital</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6020,5 +6020,16 @@ AAAAAElFTkSuQmCC
          style="stroke-width:0.264583"
          x="266.83713"
          y="-1029.7937">intellektuelles kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="268.81372"
+       y="-1014.9694"
+       id="text111813"><tspan
+         sodipodi:role="line"
+         id="tspan111811"
+         style="stroke-width:0.264583"
+         x="268.81372"
+         y="-1014.9694">integrität, sogar &quot;erbschaft&quot; gemeldet</tspan></text>
   </g>
 </svg>
