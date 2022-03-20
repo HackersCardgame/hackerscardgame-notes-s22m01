@@ -1,0 +1,7 @@
+@import "disco.css";
+@import "variables.css";
+
+:root {
+    --primary: #0078BD;
+    --text-color: #202346;
+}

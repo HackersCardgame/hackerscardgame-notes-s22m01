@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.37861251"
-     inkscape:cx="-508.43539"
-     inkscape:cy="-3498.2996"
+     inkscape:cx="-1043.283"
+     inkscape:cy="-3287.0018"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -5656,12 +5656,12 @@ AAAAAElFTkSuQmCC
          x="-299.8573"
          y="-1022.3684">DOXA</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
-       d="M -36.338824,-993.72704 252.97412,-1065.7059"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M -30.049412,-995.12469 259.26353,-1067.1035"
        id="path56411" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
-       d="M -34.242353,-969.26822 154.44,-953.8941"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -23.76,-966.47293 188.68235,15.37412"
        id="path56413" />
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.695687;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
@@ -5694,7 +5694,7 @@ AAAAAElFTkSuQmCC
          id="tspan57483"
          style="fill:#ffffff;stroke-width:0.264583"
          x="-282.64969"
-         y="-1013.9811">Lau</tspan></text>
+         y="-1013.9811">L</tspan></text>
     <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
        id="path50942-4-3"
@@ -5876,7 +5876,7 @@ AAAAAElFTkSuQmCC
          id="tspan69981"
          style="stroke-width:0.264583"
          x="-190.73915"
-         y="-1096.0088">schuelmeisterle</tspan></text>
+         y="-1096.0088">schuelmeisterei</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6023,14 +6023,14 @@ AAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-51.951649"
-       y="-935.95172"
+       x="-98.772827"
+       y="-936.65057"
        id="text77053"><tspan
          sodipodi:role="line"
          id="tspan77051"
          style="stroke-width:0.264583"
-         x="-51.951649"
-         y="-935.95172">handwerkliches kapital</tspan></text>
+         x="-98.772827"
+         y="-936.65057">handwerkliches kapital</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6042,5 +6042,31 @@ AAAAAElFTkSuQmCC
          style="stroke-width:0.264583"
          x="-47.998505"
          y="-1054.546">handwerkliches kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-97.136475"
+       y="-919.65173"
+       id="text128985"><tspan
+         sodipodi:role="line"
+         id="tspan128983"
+         style="stroke-width:0.264583"
+         x="-97.136475"
+         y="-919.65173">handarbeits kapital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="217.90564"
+       y="-920.92499"
+       id="text128985-1"><tspan
+         sodipodi:role="line"
+         id="tspan128983-3"
+         style="stroke-width:0.264583"
+         x="217.90564"
+         y="-920.92499">handarbeits kapital</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 259.26353,-1067.1035 -76.87059,102.72703"
+       id="path129765" />
   </g>
 </svg>
