@@ -8084,14 +8084,14 @@ MUxSOzFMmsYq3y3H4fBMFO1IxjlhJpXwYhgiGwXyvqLnvPzoXQisOMCzA+6w7uda7qsaNxDgKGLH
        width="2.857161"
        height="8.7353039"
        x="8.0365887"
-       y="167.66972" />
+       y="168.19888" />
     <rect
        style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="rect8450-5-1"
        width="80.015297"
        height="10.482353"
        x="6.9782567"
-       y="166.981" />
+       y="167.51016" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -8107,13 +8107,13 @@ MUxSOzFMmsYq3y3H4fBMFO1IxjlhJpXwYhgiGwXyvqLnvPzoXQisOMCzA+6w7uda7qsaNxDgKGLH
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="17.12466"
-       y="174.14842"
+       y="174.67758"
        id="text19410"><tspan
          sodipodi:role="line"
          id="tspan19408"
          style="font-weight:bold;font-size:5.29167px;fill:#ffffff;stroke-width:0.264583"
          x="17.12466"
-         y="174.14842">3.14159256459....%</tspan></text>
+         y="174.67758">3.14159256459....%</tspan></text>
     <rect
        style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="rect8450-5"
@@ -8122,9 +8122,9 @@ MUxSOzFMmsYq3y3H4fBMFO1IxjlhJpXwYhgiGwXyvqLnvPzoXQisOMCzA+6w7uda7qsaNxDgKGLH
        x="6.9782562"
        y="148.75339" />
     <rect
-       style="fill:#c49a36;fill-opacity:1;stroke:none;stroke-width:0.504416;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       style="fill:#c49a36;fill-opacity:1;stroke:none;stroke-width:0.456083;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="rect24346-0"
-       width="141.7113"
+       width="115.85484"
        height="8.7353039"
        x="8.0365906"
        y="149.60066" />
@@ -8132,13 +8132,13 @@ MUxSOzFMmsYq3y3H4fBMFO1IxjlhJpXwYhgiGwXyvqLnvPzoXQisOMCzA+6w7uda7qsaNxDgKGLH
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="7.8517857"
-       y="147.36583"
+       y="146.83667"
        id="text14112-6"><tspan
          sodipodi:role="line"
          id="tspan14110-5"
          style="font-size:5.29167px;fill:#ffffff;stroke-width:0.264583"
          x="7.8517857"
-         y="147.36583">RAM</tspan></text>
+         y="146.83667">RAM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -8156,36 +8156,36 @@ MUxSOzFMmsYq3y3H4fBMFO1IxjlhJpXwYhgiGwXyvqLnvPzoXQisOMCzA+6w7uda7qsaNxDgKGLH
        width="80.015297"
        height="10.482353"
        x="6.9782562"
-       y="130.85132" />
+       y="130.32216" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="7.8517857"
-       y="129.46376"
+       y="128.40544"
        id="text14112"><tspan
          sodipodi:role="line"
          id="tspan14110"
          style="font-size:5.29167px;fill:#ffffff;stroke-width:0.264583"
          x="7.8517857"
-         y="129.46376">Visual Memory</tspan></text>
+         y="128.40544">Visual Memory</tspan></text>
     <rect
        style="fill:#5e7d3d;fill-opacity:1;stroke:none;stroke-width:0.532647;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="rect24346"
        width="158.01802"
        height="8.7353039"
        x="7.8430023"
-       y="131.71606" />
+       y="131.1869" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="38.691833"
-       y="138.01874"
+       y="137.48958"
        id="text19410-90"><tspan
          sodipodi:role="line"
          id="tspan19408-0"
          style="font-weight:bold;font-size:5.29167px;fill:#ffffff;stroke-width:0.264583"
          x="38.691833"
-         y="138.01874">500%</tspan></text>
+         y="137.48958">500%</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
