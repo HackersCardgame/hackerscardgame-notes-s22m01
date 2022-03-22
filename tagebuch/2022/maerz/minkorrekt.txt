@@ -1,0 +1,23 @@
+Halli Hallo Ihr zwei
+
+man könnte für Interessierte jeweils "eine kleine Geschichte der Computer-Architektur" erzählen für diejenigen welche verstehen möchten wie ein heutiger CPU funktioniert.
+
+1. Transistor
+2. Flipflop aus Transistor
+3. Schieberegister aus Flipflops
+4. Addierer aus Flipflops
+=> ab da kann man sich ungefähr die Funktionsweise einer ALU (Arithmetische Logische Einheit) vorstellen, universal register AX, BX, CX, den Befehlspointer und irgend ein MOV oder ADD oder JNZ erklären (x86 Assembler Befehle)
+
+Dann kann man den Microcode der CPU erwähnen die zum Steuern des Rechenwerks im Prozessor. Schon kann man sich ungefähr vorstellen wie ein CPU funktioniert.
+
+Dann braucht man noch ein Mainboard und da müsste man den Fokus auf Datenbus, Adressbus und Steuerbus legen
+
+DatenBus: darüber werden die Daten übertragen
+AdressBus: das sagt in welche Speicherstelle
+Steurbus: der sagt ob lesen oder schreiben
+
+Diese Dinge kann man ganz gut am Beispiel des C64 Mainboards erklären. Logischerweise ist ein aktueller Intel i7 komplizierter, funktioniert aber ungefähr nach dem selben Prinzip.
+
+In der Nerd Community ist das herumbasteln mit Arduino üblich, dieser Teil wie ein Computer funktioniert bleibt aber verborgen weil der Arduino als SoC erstens Mainboard und CPU vereinigt, zweitens dieses Wissen nicht benötigt wird im ein Blinklicht oder ein Feinstaubsensor zu bauen.
+
+zum eigenlichen Thema, WELCHER BEHIDERTE VOLLDEPP hat die Technische Stromrichtung mit der Physikalischen Stromrichtung verwechselt, das macht alles nur noch komplizierter beim Lesen von Schmemata
